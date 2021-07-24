@@ -12,7 +12,7 @@
 	<artifactId>SpringBootDataJpaEx</artifactId>
 	<version>1.0</version>
 	<name>SpringBootDataJpaEx</name>
-	<description>Working with Spring Boot Email configration.</description>
+	<description>Working with Spring Boot Data JPA example</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>

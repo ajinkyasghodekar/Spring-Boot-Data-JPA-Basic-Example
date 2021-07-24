@@ -6,11 +6,13 @@ import javax.persistence.Table;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 @Data
+@NoArgsConstructor
 @AllArgsConstructor
 @Entity
-@Table(name="proTab")
+@Table(name="ptab")
 public class Product {
 	@Id
 	private Integer pid;
